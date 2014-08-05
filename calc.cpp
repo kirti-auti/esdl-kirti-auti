@@ -8,3 +8,10 @@ int main()
   
   return 0;
 }
+
+void add()
+{
+  int a,b;
+  cout<<"Enter two numbers..";
+  cin>>a>>b;
+}
